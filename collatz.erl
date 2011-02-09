@@ -1,6 +1,8 @@
 %
-% Collatz sequence generator. Erlang version.
+% Collatz sequence generator.
 % (http://en.wikipedia.org/wiki/Collatz_conjecture)
+%
+% Simple, recursive Erlang version.
 %
 % Copyright (c)2011, Ivan Tam. ivan@hipnik.net
 %
