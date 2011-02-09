@@ -1,3 +1,10 @@
+%
+% Collatz sequence generator. Erlang version.
+% (http://en.wikipedia.org/wiki/Collatz_conjecture)
+%
+% Copyright (c)2011, Ivan Tam. ivan@hipnik.net
+%
+
 -module(collatz).
 -export([sequence/1]).
 
