@@ -9,10 +9,11 @@
 
 def collatzGen(n):
   if n == 1: yield 1  # base case
+  else: yield n
 
   while n > 1:
-    if n % 2 == 1: n = n * 3 + 1
-    if n % 2 == 0: n = n / 2
+    if   n % 2 == 1: n = n * 3 + 1
+    elif n % 2 == 0: n = n / 2
     yield n
 
 if __name__ == '__main__':
