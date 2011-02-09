@@ -8,5 +8,5 @@ Repeat until you get 1. The Collatz conjecture is that for any natural number _n
 [Another description](http://en.wikipedia.org/wiki/Collatz_conjecture) is available on Wikipedia.
 
 ### What's in this repo and Why?
-I just thought I'd practice recursion and other language features in a few different languages. These are also
-studies in various ways to optimize the generatin of the sequence.
+I just thought I'd practice recursion and other language features. These are also studies
+in various ways to optimize the generation of the sequence.
